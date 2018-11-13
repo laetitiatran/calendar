@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/laetitiatran/calendar/issues"
   },
-  "homepage": "https://github.com/laetitiatran/calendar#readme"
+  "homepage": "https://github.com/laetitiatran/calendar#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "nodemon": "^1.18.6"
+  }
 }
